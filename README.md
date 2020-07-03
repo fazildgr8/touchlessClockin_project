@@ -8,7 +8,7 @@ This is a computer vision based project developed admist the pandemic situation 
 Make sure you have installed the necessary python packages from "requirements.txt"
 To run the main Touchless Clock In system python program : Execute "python Touchless_clockin.py"
 
-# Access Backend UI
+# Access Admin Backend UI
 
 Make sure you have installed Node-Red for windows : Tutorial can be found "https://nodered.org/docs/getting-started/windows"
 
