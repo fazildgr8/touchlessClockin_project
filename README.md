@@ -13,7 +13,7 @@ To run the main Touchless Clock In system python program : Execute "python Touch
 Make sure you have installed Node-Red for windows : Tutorial can be found "https://nodered.org/docs/getting-started/windows"
 
 Make sure you have installed the necessary NPM packages for the node-red using the following commands 
-```ruby
+```
 npm i node-red-contrib-fs
 npm i node-red-dashboard
 npm i node-red-node-ui-table
