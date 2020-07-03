@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluid-axis-275714",
+  "private_key_id": "b8974de090b8454301fbd71983fd36c554c5a5b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsQ7QUrg0DI32x\nZzDvpoQTMNaG5ld7yam0T7sj1y0b5UPxW3kBn81soBMqQaNEvgtLUOyfaVDPOiD8\nrVgjN9hx+s9++jSkeA29ZhCtoXrKMgXTdKcRmUrhfrC79cQX3mKRqKyALN+zznKu\nQSjTyZbJ6B7hQNsXtyYMBKt9zirzP+WHwPXBJdLYSXtR53f50LTSlykaTPnqlA70\nt7zvF70c/5Jr/RCgIHuZndytljwgTASxF3ICJHfwC+rq0jH5siynR6lL8afksXFf\nn9dME3u0gwSaL9jDTW1Caso1GnL50XX1bfTN9e89GgjLvVBoK3TddDFylpcY5PBq\nqcN9abh7AgMBAAECggEALFgfVsV5PwoXVKAaNk7Yp/IF/2LzOT/v6iUuKOs+xvQN\nOefQrgzbfi90z4dnBo6fbKtvxhd/wGCX1kOvMR2yn6CvYmH5RC9NZiiMeY3chIk8\n+7KHQV4DKyoIR9JbwMMz/4f6o+IpUel+lwHaBy7ZHK+ep2ChJak1Z5maJb/5SXWI\nuhfg/H8OaNPUTA9AJm+MMkQKKs9K84FfqCnzFbNFEcs0nDD26pnh/YTSHnbFDahD\n9bZUYbOgFP+bsH74MMS506xv1fM3R8bb6mkYQ2lx9/yB9F0AkVSBLyFBsvwETcep\nOMWB//C67hDLOZbeMP/E4/Z9oklnTGS+hbtGJi8peQKBgQDUf6hZ2LDP4XpGu/j3\nd1UYPiv1c6qd7VSzpGWW4E8coc3TnLJPTtAeWvFLv+kpzQ406E0vGZb5IbpFb1d4\n1DN/GguUH8ks4OwCPS/iXsrK93q+gEP2olZxl/EDSXMkqZdVXHEd2LCEfy9CXTY6\nWQRbdPFUVWqFV/KRdvUi7eQKswKBgQDPh4Gq+mZyELs0IdLpZmg9T10ufnATL3o7\nINS4guh7QeYtn1rag4WC4P13aIei0xyGWRwMz6bBpbl3iFo7YocRZK9FhRg3t1+e\nUqdk0qwlM/4VybHnJX5FNtrpO9rJ0D8epCE5S/OXREaLq6vs5o3eoludFsC3dh7+\nGBL7yEMfGQKBgQCd7BVwWDLm+zoFUXMwbjYGY0YGDyTwY028h+Ob4i3JKJKvvldh\nyz+uH4YN9pzQnPz+4tlhtJHXqnIlYh7OxF1VC0UpmwnGWY3sCA8LG8l4V72Xz/ky\nVOkLWJEcET0KNSMrpBzIwp5EicTUfDNt33P2iA1F0IjuejLiWlbJ06PTMwKBgAdr\nWchqEVWMoZS4jNjJT3q5pqQt4wXckashfllmXLdjYL5Kzy22vAQ01Pr64raAg6mN\n8AHJPrX3nczXNBqhaCDID7gVjQsY5DM90zw4h+0AkdnnjxOrdHs2/daOzECg0FDh\nH0r0Gy5SQ49kwM3EZFgMR+gy0wr8DxmYdL1JqJSpAoGAEyFoN3P2E8xBugZKQ7Ve\nKxkqxSahL9c4QPHQU2TnahUVdP2faTz6vo9vc16lNP5FFtUO4F0GhJ26xVG5MJjE\n2sWTwlC+dOnSR8zVUBB0zIytgBgQedhMSpi28jbHIweE7VGQQks/6A8MwctWBlkL\nOg/WYjPnk5Korps52d3b7vA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fazil-917@fluid-axis-275714.iam.gserviceaccount.com",
+  "client_id": "113259736949480902510",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fazil-917%40fluid-axis-275714.iam.gserviceaccount.com"
+}

@@ -1,0 +1,16 @@
+opencv-python==4.2.0
+numpy
+dlib
+face_recognition
+pyaudio
+imutils
+SpeechRecognition
+pyttsx3
+pywin32
+python-firebase
+pyrebase
+datetime
+python_jwt
+gcloud
+sseclient
+pycryptodome
