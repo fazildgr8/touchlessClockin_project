@@ -11,15 +11,16 @@ import pyrebase
 
 
 data = Database()
+# Update the config with your firebase files
 config = {
-    "apiKey": "AIzaSyCEmnNdv_vjt4IKtsCfUJud18TN3YpCKVA",
-    "authDomain": "cvip-a44cd.firebaseapp.com",
-    "databaseURL": "https://cvip-a44cd.firebaseio.com",
-    "projectId": "cvip-a44cd",
-    "storageBucket": "cvip-a44cd.appspot.com",
-    "messagingSenderId": "286686795913",
-    "appId": "1:286686795913:web:482dbcd478c29eea790e58",
-    "measurementId": "G-8PLRVPBBF7"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": ""
 }
 
 def savetoCloud_mainface(ubid):
