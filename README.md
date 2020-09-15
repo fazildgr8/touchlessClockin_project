@@ -4,7 +4,7 @@ This is a computer vision based project developed admist the pandemic situation 
 # Instructions
 
 # The Touchless Clock In system 
-![The Touchless Clock In Standalone System](CVP4 Flow Chart.jpg)
+![The Touchless Clock In Standalone System](node-red-flows.PNG)
 Make sure you have installed the necessary python packages from "requirements.txt"
 To run the main Touchless Clock In system python program : Execute "python Touchless_clockin.py"
 
