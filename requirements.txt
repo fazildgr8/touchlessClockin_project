@@ -1,4 +1,4 @@
-opencv-python==4.2.0
+opencv-python==4.8.1.78
 numpy
 dlib
 face_recognition
